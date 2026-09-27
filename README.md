@@ -30,9 +30,9 @@ I’ve been into crypto since 2019, way before I studied physics. I like zero-kn
 <!-- BLOG-POST-LIST:START -->
 - [My final-year project: steering a UV laser for trapped ions](https://highentropy001.com/posts/final-year-project-trapped-ion-laser/) <sub>26 Sep 2026</sub>
 - [A proof can verify and still be wrong](https://highentropy001.com/posts/a-proof-can-verify-and-still-be-wrong/) <sub>29 Mar 2026</sub>
-- [喜欢](https://highentropy001.com/posts/%E5%96%9C%E6%AC%A2/) <sub>1 Sep 2025</sub>
 - [Inside a modern prover: sumcheck, lookups and Binius](https://highentropy001.com/posts/inside-a-modern-prover/) <sub>16 Mar 2025</sub>
-- [下輩子 我會成為苔蘚](https://highentropy001.com/posts/%E4%B8%8B%E8%BC%A9%E5%AD%90%E6%88%91%E6%9C%83%E6%88%90%E7%82%BA%E8%8B%94%E8%98%9A/) <sub>22 Aug 2024</sub>
+- [Is a qubit better than a bit at everything?](https://highentropy001.com/posts/summer-at-cqt-quantum-cryptography/) <sub>17 Mar 2024</sub>
+- [Toxic waste: trusted setups, STARKs and the quantum question](https://highentropy001.com/posts/toxic-waste/) <sub>12 Sep 2023</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>[All posts →](https://highentropy001.com/posts/) · [RSS](https://highentropy001.com/rss.xml)</sub>
