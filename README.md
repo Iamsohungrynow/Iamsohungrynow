@@ -29,10 +29,10 @@ I’ve been into crypto since 2019, way before I studied physics. I like zero-kn
 
 <!-- BLOG-POST-LIST:START -->
 - [My final-year project: steering a UV laser for trapped ions](https://highentropy001.com/posts/final-year-project-trapped-ion-laser/) <sub>26 Sep 2026</sub>
+- [Why on-chain options keep dying](https://highentropy001.com/posts/why-on-chain-options-keep-dying/) <sub>25 Apr 2026</sub>
 - [Nine minutes to a private key, read from a qubit lab](https://highentropy001.com/posts/quantum-attack-from-the-bench/) <sub>24 Apr 2026</sub>
 - [A proof can verify and still be wrong](https://highentropy001.com/posts/a-proof-can-verify-and-still-be-wrong/) <sub>29 Mar 2026</sub>
 - [Inside a modern prover: sumcheck, lookups and Binius](https://highentropy001.com/posts/inside-a-modern-prover/) <sub>16 Mar 2025</sub>
-- [Is a qubit better than a bit at everything?](https://highentropy001.com/posts/summer-at-cqt-quantum-cryptography/) <sub>17 Mar 2024</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>[All posts →](https://highentropy001.com/posts/) · [RSS](https://highentropy001.com/rss.xml)</sub>
