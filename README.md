@@ -32,7 +32,7 @@ I’ve been into crypto since 2019, way before I studied physics. I like zero-kn
 - [Why on-chain options keep dying](https://highentropy001.com/posts/why-on-chain-options-keep-dying/) <sub>25 Apr 2026</sub>
 - [Nine minutes to a private key, read from a qubit lab](https://highentropy001.com/posts/quantum-attack-from-the-bench/) <sub>24 Apr 2026</sub>
 - [A proof can verify and still be wrong](https://highentropy001.com/posts/a-proof-can-verify-and-still-be-wrong/) <sub>29 Mar 2026</sub>
-- [Inside a modern prover: sumcheck, lookups and Binius](https://highentropy001.com/posts/inside-a-modern-prover/) <sub>16 Mar 2025</sub>
+- [Swap is not repay: two ways a CDP took my coins](https://highentropy001.com/posts/swap-is-not-repay/) <sub>17 Oct 2025</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>[All posts →](https://highentropy001.com/posts/) · [RSS](https://highentropy001.com/rss.xml)</sub>
