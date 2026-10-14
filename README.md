@@ -28,8 +28,8 @@ I’ve been into crypto since 2019, way before I studied physics. I like zero-kn
 ### Latest from the High Entropy Diary
 
 <!-- BLOG-POST-LIST:START -->
-- [What a transmon actually is](https://highentropy001.com/posts/what-a-transmon-actually-is/) <sub>11 Oct 2026</sub>
 - [My final-year project: steering a UV laser for trapped ions](https://highentropy001.com/posts/final-year-project-trapped-ion-laser/) <sub>26 Sep 2026</sub>
+- [How you calibrate a qubit](https://highentropy001.com/posts/how-you-calibrate-a-qubit/) <sub>14 Jun 2026</sub>
 - [Why on-chain options keep dying](https://highentropy001.com/posts/why-on-chain-options-keep-dying/) <sub>25 Apr 2026</sub>
 - [Nine minutes to a private key, read from a qubit lab](https://highentropy001.com/posts/quantum-attack-from-the-bench/) <sub>24 Apr 2026</sub>
 - [A proof can verify and still be wrong](https://highentropy001.com/posts/a-proof-can-verify-and-still-be-wrong/) <sub>29 Mar 2026</sub>
