@@ -16,7 +16,6 @@ I’ve been into crypto since 2019, way before I studied physics. I like zero-kn
 
 ### Things I’ve built
 
-- [**Separatrix**](https://highentropy001.com/projects/separatrix/) <sub>Sep 2026 · solo</sub><br>Quantum-inspired optimisation everyone can check: a Rust simulated-bifurcation solver raced against the exact optimum in your browser.
 - [**Anneal**](https://highentropy001.com/projects/anneal/) <sub>Mar–May 2026</sub><br>An options DEX on Solana, built as a private OTC market: traders get competing quotes without revealing their budget.
 - [**CrowdShift**](https://highentropy001.com/projects/crowdshift/) <sub>Jul 2026 · solo</sub><br>A market that pays commuters to miss the crush: shift your trip off-peak and get paid once the shift is verified.
 - [**Soliton**](https://highentropy001.com/projects/soliton/) <sub>Jun 2026 · solo</sub><br>Verifiable memory for AI agents: each write gets a receipt on Sui, while the content is stored on Walrus.
