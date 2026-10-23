@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/martina-lee-zy/">LinkedIn</a>
 </p>
 
-Most days I’m on Singapore’s first homegrown superconducting quantum computer, a 20-qubit processor at NTU and the [Centre for Quantum Technologies](https://www.cqt.sg/). I’m using machine-learning methods to improve qubit readout fidelity, and picking up the FPGA control stack.
+These days I work on neutral-atom quantum computing for my PhD, in David Wilkowski’s group at Nanyang Technological University / [Centre for Quantum Technologies](https://www.cqt.sg/). Before that I spent a year on Singapore’s first homegrown superconducting quantum computer, a 20-qubit processor, working on machine-learning methods to improve qubit readout, and wrote an [open introduction to superconducting qubits](https://highentropy001.com/research/superconducting-qubits/).
 
 I’ve been into crypto since 2019, way before I studied physics. I like zero-knowledge proofs, options and trading, so I tend to build around markets and privacy.
 
