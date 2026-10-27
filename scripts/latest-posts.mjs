@@ -2,7 +2,7 @@
 // Poems stay on the site; the profile lists the essays only.
 import { readFile, writeFile } from "node:fs/promises";
 
-const FEED = process.env.FEED ?? "https://highentropy001.com/rss.xml";
+const FEED = process.env.FEED ?? "https://martinalee.me/rss.xml";
 const SKIP = new Set(["Poems"]);
 const COUNT = 5;
 const START = "<!-- BLOG-POST-LIST:START -->";
