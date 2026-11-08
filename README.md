@@ -27,11 +27,11 @@ I’ve been into crypto since 2019, way before I studied physics. I like zero-kn
 ### Latest from the High Entropy Diary
 
 <!-- BLOG-POST-LIST:START -->
+- [Joining open source as a contributor](https://martinalee.me/posts/a-month-of-open-source-pull-requests/) <sub>8 Nov 2026</sub>
 - [My final-year project: steering a UV laser for trapped ions](https://martinalee.me/posts/final-year-project-trapped-ion-laser/) <sub>26 Sep 2026</sub>
 - [How you calibrate a qubit](https://martinalee.me/posts/how-you-calibrate-a-qubit/) <sub>14 Jun 2026</sub>
 - [Why on-chain options keep dying](https://martinalee.me/posts/why-on-chain-options-keep-dying/) <sub>25 Apr 2026</sub>
 - [Nine minutes to a private key, read from a qubit lab](https://martinalee.me/posts/quantum-attack-from-the-bench/) <sub>24 Apr 2026</sub>
-- [A proof can verify and still be wrong](https://martinalee.me/posts/a-proof-can-verify-and-still-be-wrong/) <sub>29 Mar 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>[All posts →](https://martinalee.me/posts/) · [RSS](https://martinalee.me/rss.xml)</sub>
