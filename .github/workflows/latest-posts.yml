@@ -1,4 +1,4 @@
-# Keeps "Latest from the High Entropy Diary" in README.md in step with highentropy001.com.
+# Keeps "Latest from the High Entropy Diary" in README.md in step with martinalee.me.
 name: Latest posts
 
 on:
@@ -23,5 +23,5 @@ jobs:
           git diff --quiet README.md && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Update latest posts from highentropy001.com"
+          git commit -am "Update latest posts from martinalee.me"
           git push

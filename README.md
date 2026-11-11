@@ -1,7 +1,7 @@
 <a href="https://martinalee.me">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png" />
-    <img width="100%" alt="Martina Lee. Quantum computing PhD student, fintech enthusiast, Singapore." src="assets/banner-light.png" />
+    <img width="100%" alt="Martina Lee. Quantum computing PhD student, Singapore. martinalee.me" src="assets/banner-light.png" />
   </picture>
 </a>
 
@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/martina-lee-zy/">LinkedIn</a>
 </p>
 
-These days I work on neutral-atom quantum computing for my PhD, in David Wilkowski’s group at Nanyang Technological University / [Centre for Quantum Technologies](https://www.cqt.sg/). Before that I spent a year on Singapore’s first homegrown superconducting quantum computer, a 20-qubit processor, working on machine-learning methods to improve qubit readout, and wrote an [open introduction to superconducting qubits](https://martinalee.me/research/superconducting-qubits/).
+These days I work on neutral-atom quantum computing for my PhD, in David Wilkowski’s group at Nanyang Technological University / [Centre for Quantum Technologies](https://www.cqt.sg/), starting with LLM/machine-learning optimisation of quantum experiments. Before that I worked on qubit readout for Singapore’s first homegrown superconducting quantum computer, a 20-qubit processor, and wrote an [open introduction to superconducting qubits](https://martinalee.me/research/superconducting-qubits/).
 
 I’ve been into crypto since 2019, way before I studied physics. I like zero-knowledge proofs, options and trading, so I tend to build around markets and privacy.
 
